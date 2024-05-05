@@ -21,5 +21,8 @@
     <ClCompile Include="char-wchar_t.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="cpp-cin-cout-c-scanf-printf.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

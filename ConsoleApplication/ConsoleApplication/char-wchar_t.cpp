@@ -3,7 +3,7 @@
 
 using namespace std;
 
-int main()
+int main_____Fuck()
 {
 	// 当前工程 C++语言标准：C++ 20
 	// 当前文档编码：（GB2312） CodePage 936
