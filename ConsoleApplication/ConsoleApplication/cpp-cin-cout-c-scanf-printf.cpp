@@ -6,7 +6,7 @@ using namespace std;
 
 
 
-int main()
+int main__Fuck()
 {
 
 	// ²Î¿¼£ºhttps://midoq.github.io/2022/02/27/C%E5%92%8CC++%E4%B8%AD%E7%9A%84%E6%A0%87%E5%87%86%E8%BE%93%E5%85%A5%E8%BE%93%E5%87%BA%E5%87%BD%E6%95%B0%E7%BB%88%E6%9E%81%E6%9C%80%E5%85%A8%E8%A7%A3%E6%9E%90%EF%BC%88%E4%B8%8D%E5%85%A8%E6%8D%B6%E6%88%91%EF%BC%89/

@@ -24,5 +24,8 @@
     <ClCompile Include="cpp-cin-cout-c-scanf-printf.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="parser-srt.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

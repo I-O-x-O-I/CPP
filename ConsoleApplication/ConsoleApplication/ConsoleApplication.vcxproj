@@ -131,6 +131,7 @@
     <ClCompile Include="char-wchar_t.cpp" />
     <ClCompile Include="ConsoleApplication.cpp" />
     <ClCompile Include="cpp-cin-cout-c-scanf-printf.cpp" />
+    <ClCompile Include="parser-srt.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
