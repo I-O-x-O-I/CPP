@@ -27,5 +27,8 @@
     <ClCompile Include="parser-srt.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="string-1st-letter-toupper.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

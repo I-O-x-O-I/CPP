@@ -145,7 +145,9 @@ void ParserSRT::Parser()
 
 
 
-int main()
+
+
+int main___FUCK()
 {
 	
 
